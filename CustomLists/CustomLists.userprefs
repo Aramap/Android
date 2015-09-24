@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="CustomLists\CustomLists.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_One_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomLists\MainActivity.cs">
+    <Files>
+      <File FileName="CustomLists\MainActivity.cs" Line="82" Column="82" />
+      <File FileName="CustomLists\Data.cs" Line="18" Column="18" />
+      <File FileName="CustomLists\DataAdapter.cs" Line="42" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomLists MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
